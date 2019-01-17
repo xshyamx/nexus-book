@@ -1,6 +1,6 @@
 # Nexus Book Builder #
 
-Build the nexus-book from github
+Build the [nexus-book](https://github.com/sonatype/nexus-book) epub from github
 
 
 ```sh
