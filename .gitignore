@@ -1,0 +1,5 @@
+.*
+!.gitignore
+!.dockerignore
+/nexus-book
+/nexus-book.tgz
